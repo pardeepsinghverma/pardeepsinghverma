@@ -4,13 +4,13 @@
 
     - 🔭 I’m currently working at **fathershops.com**
     
-    - 🌱 I’m currently learning **React Native**
+    - 🌱 I’m currently learning **AI and Machine Learning**
     
     - 💬 Ask me about **React, React-Native, PHP, Laravel, Wordpress, Opencart, Mysql**
     
-    - 📫 How to reach me **ask@pardeep.app**
+    - 📫 How to reach me **vermapardeep.official@gmial.com**
     
-    - 📄 Know about my experiences [I am in coding for last 2 years. Currently Working at Fathershops. 
+    - 📄 Know about my experiences [I am in coding for last 4 years. Currently Working at Fathershops. 
     A Global Dropshipping Platform.]
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="pardeep verma" width="200px" height="auto" />
 
